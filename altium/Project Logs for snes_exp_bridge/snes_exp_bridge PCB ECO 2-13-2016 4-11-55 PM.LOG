@@ -1,0 +1,28 @@
+Added Component: Designator=J2(IDC_26PIN_MALE_SHROUD)
+Added Pin To Net: NetName=PA0 Pin=J2-1
+Added Pin To Net: NetName=PA1 Pin=J2-2
+Added Pin To Net: NetName=PA2 Pin=J2-3
+Added Pin To Net: NetName=PA3 Pin=J2-4
+Added Pin To Net: NetName=PA4 Pin=J2-5
+Added Pin To Net: NetName=PA5 Pin=J2-6
+Added Pin To Net: NetName=PA6 Pin=J2-7
+Added Pin To Net: NetName=PA7 Pin=J2-8
+Added Pin To Net: NetName=PAWR_N Pin=J2-9
+Added Pin To Net: NetName=PARD_N Pin=J2-10
+Added Pin To Net: NetName=D0 Pin=J2-11
+Added Pin To Net: NetName=D1 Pin=J2-12
+Added Pin To Net: NetName=D2 Pin=J2-13
+Added Pin To Net: NetName=D3 Pin=J2-14
+Added Pin To Net: NetName=D4 Pin=J2-15
+Added Pin To Net: NetName=D5 Pin=J2-16
+Added Pin To Net: NetName=D6 Pin=J2-17
+Added Pin To Net: NetName=D7 Pin=J2-18
+Added Pin To Net: NetName=RST_N Pin=J2-19
+Added Pin To Net: NetName=5V Pin=J2-20
+Added Pin To Net: NetName=SMP_CLK Pin=J2-21
+Added Pin To Net: NetName=DOT_CLK Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=EXPAND Pin=J2-24
+Added Pin To Net: NetName=MONO-OUT Pin=J2-25
+Added Pin To Net: NetName=IRQ_N Pin=J2-26
+Added Member To Class: ClassName=snes_exp_bridge Member=Component J2 IDC_26PIN_MALE_SHROUDED

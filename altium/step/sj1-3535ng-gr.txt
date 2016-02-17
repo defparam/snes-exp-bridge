@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"60-13102015-106353";"";
+"REFERENCE";"SJ1-3535NG-GR";"";
+"TraceParts.PartTitle";"SJ1-353XNG Series - 3.5 mm, Stereo, Right Angle, Through Hole, Isolated Ground, Audio Jack Connector";"";
+"TraceParts.InstanceId";"60-13102015-1063536ISFMJXN7B9KWKHABVTSE340F";"";
+"DESIGN";"3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground, Green";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:60-13102015-106353";"";
